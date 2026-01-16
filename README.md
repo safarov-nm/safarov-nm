@@ -52,7 +52,7 @@
 
 ### 🛠️ МОЙ СТЕК И ИНСТРУМЕНТЫ
 
-<p align="left">
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> </a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a>
@@ -67,19 +67,18 @@
 
 ### 📞 СПОСОБЫ СВЯЗИ СО МНОЙ
 
-<p align="left">
-<a href="https://github.com/safarov-nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" /></a>
-<a href="https://t.me/donnt_panic" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="40" width="40" /></a>
-<a href="https://vk.com/safarov_nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=vk" alt="VKontakte" height="40" width="40" /></a>
-<a href="https://leetcode.com/safarov-nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" /></a>
-<a href="mailto:safarov_nm@mail.ru" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mail" height="40" width="40" /></a>
+<p align="center">
+<a href="https://t.me/donnt_panic" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" /></a>
+<a href="https://vk.com/safarov_nm" target="_blank"><img align="center" src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" height="30" /></a>
+<a href="https://leetcode.com/safarov-nm" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" /></a>
+<a href="mailto:safarov_nm@mail.ru" target="_blank"><img align="center" src="https://img.shields.io/badge/Почта@mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" height="30" /></a>
 </p>
 
 ---
 
 ### 📄 ГИПЕРССЫЛКА НА РЕЗЮМЕ ИЗ HH.RU
 
-<p align="left">
+<p align="center">
 <a href="https://cloud.mail.ru/public/55rt/Vookf7AFZ" target="_blank">
   <img src="https://img.shields.io/badge/-📄_Резюме-2D3748?style=for-the-badge&logo=googledrive&logoColor=white" alt="Резюме" />
 </a>
@@ -91,8 +90,8 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=safarov-nm&theme=radical&hide_border=true&locale=ru" alt="Рекорд активностей" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safarov-nm&layout=donut&theme=radical&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" height="170" />
 </div>
 
----
 
 ![snake gif](https://raw.githubusercontent.com/safarov-nm/safarov-nm/output/github-snake.svg)
