@@ -13,10 +13,19 @@
 ### 🧭 Обо мне
 
 -   🛠️ Сейчас работаю над: **Виртуальной машиной на C**
+-   📚 Параллельно пишу: **Собственные контейнеры (стек, динамический массив, списки)**
 -   🎓 Учусь: **1 курс магистратуры | Программная инженерия | ННГУ им. Н. И. Лобачевского**
--   📚 Изучаю: **Углубленные алгоритмы, системное программирование**
--   💡 Интересы: **Low-level разработка, компиляторы, операционные системы**
--   📫 Как связаться: **safarov_nm@mail.ru**
+-   🎓 Образование: **Бакалавриат по направлению "Фундаментальная информатика и информационные технологии" (2021-2025), окончил с красным дипломом**
+
+---
+
+### 🔥 Интересные проекты
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| **Сборщик мусора на C** | Реализация алгоритма автоматического управления памятью | C, Алгоритмы |
+| **Виртуальная машина** | Интерпретатор и среда выполнения для байт-кода | C, Системное программирование |
+| **Контейнеры STL-like** | Самописные реализации структур данных | C++, Шаблоны |
 
 ---
 
@@ -40,7 +49,6 @@
 <p align="left">
 <a href="https://github.com/safarov-nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" /></a>
 <a href="https://t.me/donnt_panic" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="40" width="40" /></a>
-<!-- Укажите ссылку на ваш VK -->
 <a href="https://vk.com/safarov_nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=vk" alt="VKontakte" height="40" width="40" /></a>
 <a href="https://leetcode.com/safarov-nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" /></a>
 <a href="mailto:safarov_nm@mail.ru" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mail" height="40" width="40" /></a>
@@ -51,7 +59,6 @@
 ### 📄 Мои документы
 
 <p align="left">
-<!-- Ссылка на ваше резюме -->
 <a href="https://cloud.mail.ru/public/55rt/Vookf7AFZ" target="_blank">
   <img src="https://img.shields.io/badge/-📄_Резюме-2D3748?style=for-the-badge&logo=googledrive&logoColor=white" alt="Резюме" />
 </a>
@@ -67,4 +74,10 @@
 </div>
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=safarov-nm&theme=radical&hide_border=true&locale=ru" alt="Рекорд активностей" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/safarov-nm/safarov-nm/output/snake.svg" alt="Snake animation" />
 </div>
