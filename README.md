@@ -1,90 +1,70 @@
-<br clear="both">
-
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
+# Привет 👋, Я Сафаров Нурлан
 
-<h1 align="center">Привет👋 Меня зовут Нурлан!</h1>
+### Разработчик на C/C++
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safarov-nm&theme=onedark&column=7" alt="safarov-nm" /></a> </p>
 
-<div align="center">
-  <a href="https://t.me/donnt_panic" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+---
 
-###
+### 🧭 Обо мне
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
+-   🛠️ Сейчас работаю над: **Виртуальной машиной на C**
+-   🎓 Учусь: **1 курс магистратуры | Программная инженерия | ННГУ им. Н. И. Лобачевского**
+-   📚 Изучаю: **Углубленные алгоритмы, системное программирование**
+-   💡 Интересы: **Low-level разработка, компиляторы, операционные системы**
+-   📫 Как связаться: **safarov_nm@mail.ru**
 
-###
+---
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+### 🛠️ Мой стек и инструменты
 
-###
-
-<p align="left">Занимаюсь разработкой программного обеспечения на С и C++ более 4 лет. С отличием защитил диплом бакалавра на тему "Сборщик мусора на Си". На данный момент времени занимаюсь реализацией своей собственной виртуальной машины на Си — учусь на 1-ом курсе магистратуры. Навыки: C, C++, ООП, многопоточное программирование, STL, АиСД, Git, GitHub. Уверен, мне будет чем заняться в Вашей компании — готов заниматься, например, оптимизацией существующего кода и разработкой нового функционала.</p>
-
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/> </a>
+<a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40"/> </a>
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Технологии:</h3>
+### 📞 Связаться со мной
 
-###
+<p align="left">
+<a href="https://github.com/safarov-nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" /></a>
+<a href="https://t.me/donnt_panic" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="40" width="40" /></a>
+<!-- Укажите ссылку на ваш VK -->
+<a href="https://vk.com/safarov_nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=vk" alt="VKontakte" height="40" width="40" /></a>
+<a href="https://leetcode.com/safarov-nm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" /></a>
+<a href="mailto:safarov_nm@mail.ru" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mail" height="40" width="40" /></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
+---
 
-###
+### 📄 Мои документы
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<p align="left">
+<!-- Ссылка на ваше резюме -->
+<a href="https://cloud.mail.ru/public/55rt/Vookf7AFZ" target="_blank">
+  <img src="https://img.shields.io/badge/-📄_Резюме-2D3748?style=for-the-badge&logo=googledrive&logoColor=white" alt="Резюме" />
+</a>
+</p>
 
-###
+---
+
+### 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=safarov-nm&show_icons=true&theme=radical&hide_border=true&locale=ru" alt="Статистика" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=safarov-nm&layout=compact&theme=radical&hide_border=true&locale=ru" alt="Языки" />
 </div>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=safarov-nm&theme=radical&hide_border=true&locale=ru" alt="Рекорд активностей" />
 </div>
-
-###
